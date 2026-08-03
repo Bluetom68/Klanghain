@@ -4,7 +4,7 @@
 
 © 2024–2026 Thomas Zieringer · Klanghain · Open-Source Release 1.0.0 · Some rights reserved  
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
-First complete version: 3 December 2024 · Official release: Version 1.0.0 (internal development version 126), 1 August 2026 · Bensheim — BenSheim, City of the Friedensmal 
+First complete version: 3 December 2024 · Official release: Version 1.0.0 (internal development version 126), 1 August 2026 · Bensheim — BenSheim, City of the Friedensmal  
 Archived release 1.0.0: https://doi.org/10.5281/zenodo.21748969 &nbsp;·&nbsp; All versions: https://doi.org/10.5281/zenodo.21748968 &nbsp;·&nbsp; https://klanghain.org  
 
 **The German-language source files of the Klanghain are the authoritative versions.**
