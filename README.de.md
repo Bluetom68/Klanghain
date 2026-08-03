@@ -4,8 +4,9 @@
 
 © 2024–2026 Thomas Zieringer · Klanghain · Open-Source-Release 1.0.0 · Einige Rechte vorbehalten  
 Lizenz: [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de)  
-Erstfassung: 03. 12. 2024 · Aktuelle Fassung: Version 126 vom 1. 8. 2026 · Bensheim (Stadt des Friedensmals)  
-Original und künftige Fassungen: https://doi.org/10.5281/zenodo.21748969 &nbsp;·&nbsp; https://klanghain.com  
+Erste vollständige Fassung: 3. Dezember 2024 · Offizielle Veröffentlichung: Version 1.0.0 (interne Entwicklungsfassung 126), 1. August 2026 · Bensheim – BenSheim, Stadt des Friedensmals  
+Archivierte Fassung 1.0.0: https://doi.org/10.5281/zenodo.21748969 &nbsp;·&nbsp; Alle Versionen: https://doi.org/10.5281/zenodo.21748968 &nbsp;·&nbsp; https://klanghain.com
+
 **Die deutschsprachigen Quelldateien des Klanghains sind maßgeblich.**
 
 ---
