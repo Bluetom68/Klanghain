@@ -45,6 +45,8 @@ The work itself, in four parts that sound into one another (Part II ends with »
 
 The compass: a person profile that tunes the encounter to one concrete human being. This file is the author’s example — a template for one’s own compass, not a standard (see Section 4).
 
+`Kompass_Thomas_Zieringer.txt` is intentionally published as the author’s personal example. It is neither a diagnostic document nor a normative profile for other users. Its publication should not be understood as an invitation or expectation that others disclose personal or sensitive information; each person decides independently what they wish to share or keep private.
+
 ---
 
 ## 3. Setup with an AI System
