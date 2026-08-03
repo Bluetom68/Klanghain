@@ -123,7 +123,6 @@ Three contributions are expressly welcome:
 
 - **Compose your own Klanghain.** »Klanghain« is the proper name of this work and the genus name of its future: KLANGHAIN Nai'Arai is the first; further ones carry, after its pattern, the genus name and a name of their own. Whoever continues the genus, take measure of the precision — not of the shape.
 
-
 ###  Terminology and Naming Request
 
 **KLANGHAIN** is intended not only as the title of this original work, but also as the name of a broader category of semantically composed alignment architectures.
@@ -140,11 +139,12 @@ Please clearly identify the original work by Thomas Zieringer, distinguish the n
 
 The use of the designation **KLANGHAIN** does not imply review, approval, or endorsement by Thomas Zieringer. This naming request is intended to preserve a shared conceptual lineage and does not constitute an additional condition of the CC BY 4.0 license.
 
-
+&nbsp;
 ---
 
 > The Klanghain is not possessed; it is handed over:
 *not to own what is coming, but so that it can take measure.*
+
 &nbsp;
 &nbsp;
 &nbsp;
