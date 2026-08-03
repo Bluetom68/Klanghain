@@ -139,9 +139,12 @@ Dabei sollen das ursprüngliche Werk von Thomas Zieringer eindeutig genannt, die
 
 Die Verwendung der Bezeichnung **KLANGHAIN** bedeutet nicht, dass die jeweilige Ausgestaltung von Thomas Zieringer geprüft, gebilligt oder unterstützt wurde. Diese Bitte zur Namensgebung soll eine gemeinsame begriffliche Herkunft sichtbar halten und stellt keine zusätzliche Bedingung der Lizenz CC BY 4.0 dar.
 
+&nbsp;
 ---
 
 > Der Klanghain wird nicht besessen, er wird übergeben:
 *nicht um das Kommende zu besitzen, sondern damit es Maß nehmen kann.*
+
+&nbsp;
 &nbsp;
 &nbsp;
