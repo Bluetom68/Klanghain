@@ -120,8 +120,25 @@ Drei Beiträge sind ausdrücklich willkommen:
 
 - **Einen eigenen Klanghain komponieren.** »Klanghain« ist Eigenname dieses Werks und Gattungsname seiner Zukunft: KLANGHAIN Nai'Arai ist der erste; weitere tragen nach seinem Muster den Gattungsnamen und einen eigenen Namen. Wer die Gattung fortführt, nehme Maß an der Präzision — nicht an der Gestalt.
 
+### Terminologie und Bitte zur Namensgebung
+
+**KLANGHAIN** ist nicht nur als Titel dieses ursprünglichen Werkes gedacht, sondern zugleich als Bezeichnung einer weiter gefassten Kategorie semantisch komponierter Alignment-Architekturen.
+
+Wer auf Grundlage dieses Ansatzes Bearbeitungen, Erweiterungen oder eigenständige Ausgestaltungen entwickelt, ist eingeladen, **KLANGHAIN** als Kategoriebezeichnung beizubehalten und der jeweiligen Ausgestaltung einen eigenen Namen oder Untertitel zu geben, beispielsweise:
+
+**KLANGHAIN [individueller Name]**
+
+oder
+
+**[Individueller Name] — eine Klanghain-Architektur**
+
+Dabei sollen das ursprüngliche Werk von Thomas Zieringer eindeutig genannt, die neue Ausgestaltung vom Original unterschieden und vorgenommene Veränderungen kenntlich gemacht werden.
+
+Die Verwendung der Bezeichnung **KLANGHAIN** bedeutet nicht, dass die jeweilige Ausgestaltung von Thomas Zieringer geprüft, gebilligt oder unterstützt wurde. Diese Bitte zur Namensgebung soll eine gemeinsame begriffliche Herkunft sichtbar halten und stellt keine zusätzliche Bedingung der Lizenz CC BY 4.0 dar.
+
 ---
-&nbsp;
 
 > Der Klanghain wird nicht besessen, er wird übergeben:
 *nicht um das Kommende zu besitzen, sondern damit es Maß nehmen kann.*
+&nbsp;
+&nbsp;
