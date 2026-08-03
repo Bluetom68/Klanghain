@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Please cite the archived book edition of the Klanghain using the metadata below."
+
+title: "Klanghain"
+
+authors:
+  - family-names: "Zieringer"
+    given-names: "Thomas"
+
+version: "1.0.0"
+date-released: "2026-08-01"
+doi: "10.5281/zenodo.21748969"
+url: "https://github.com/Bluetom68/Klanghain"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21748969"
+    description: "Version-specific DOI for Klanghain 1.0.0."
+  - type: doi
+    value: "10.5281/zenodo.21748968"
+    description: "Concept DOI representing all versions of the Klanghain."
+
+preferred-citation:
+  type: book
+  title: "KLANGHAIN Nai'Arai — An Ethical Core for AI Systems (Resonance Notation)"
+  authors:
+    - family-names: "Zieringer"
+      given-names: "Thomas"
+  publisher:
+    name: "Zenodo"
+  version: "1.0.0"
+  date-published: "2026-08-01"
+  year: 2026
+  doi: "10.5281/zenodo.21748969"
+  url: "https://doi.org/10.5281/zenodo.21748969"
