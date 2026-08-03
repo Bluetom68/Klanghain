@@ -45,6 +45,8 @@ Das Werk selbst, in vier Teilen, die ineinander klingen (Teil II endet mit »att
 
 Der Kompass: ein Personprofil, das die Begegnung auf einen konkreten Menschen stimmt. Diese Datei ist das Beispiel des Urhebers — Vorlage für den eigenen Kompass, nicht Maßstab (siehe Abschnitt 4).
 
+`Kompass_Thomas_Zieringer.txt` wird bewusst als persönliches Beispiel des Urhebers veröffentlicht. Die Datei ist weder ein diagnostisches Dokument noch ein normatives Profil für andere Nutzer. Ihre Veröffentlichung ist weder als Aufforderung noch als Erwartung zu verstehen, persönliche oder sensible Angaben offenzulegen; jeder Mensch entscheidet selbst, was er mitteilen oder privat halten möchte.
+
 ---
 
 ## 3. Einrichtung mit einem KI-System
