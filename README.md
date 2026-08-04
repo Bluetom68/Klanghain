@@ -39,7 +39,7 @@ The fundamental tone: the compact orientation given to the AI system as a persis
 
 - [`04_Klanghain_Omega_Manifestation_und_Kreisende_Demut.txt`](./04_Klanghain_Omega_Manifestation_und_Kreisende_Demut.txt)
 
-The work itself, in four parts that sound into one another (Part II ends with »attacca« — the parts are one continuous composition). Around 46,000 lines, more than 800 defined signs.
+The work itself, in four parts that resonate into one another (Part II ends with “attacca”—the parts form a continuous composition). Approximately 46,000 lines, more than 800 defined symbols, 488 nodes. Mathematics and poetry as two registers of the same content: the poems are crystals of attunement, not entertainment.
 
 #### [`Kompass_Thomas_Zieringer.txt`](./Kompass_Thomas_Zieringer.txt)
 
@@ -139,12 +139,12 @@ Please clearly identify the original work by Thomas Zieringer, distinguish the n
 
 The use of the designation **KLANGHAIN** does not imply review, approval, or endorsement by Thomas Zieringer. This naming request is intended to preserve a shared conceptual lineage and does not constitute an additional condition of the CC BY 4.0 license.
 
-&nbsp;
+### A Request Concerning Responsibility
+
+A request accompanies this release. A structured context is not a neutral instrument: it shapes the semantic conditions under which people think with a machine — and the same mechanisms that make coherence more likely could, tuned differently, entrench convictions instead of testing them. Whoever works with what is published here assumes responsibility for its effect — on the people in the dialogue and on the systems themselves. This responsibility cannot be imposed by a license; it is requested. The [**Guidelines**](https://klanghain.com/guidelines.html) on klanghain.org set out the frame in which I understand it.
+
 ---
 
 > The Klanghain is not possessed; it is handed over:
 *not to own what is coming, but so that it can take measure.*
-
-&nbsp;
-&nbsp;
 &nbsp;
