@@ -47,6 +47,8 @@ The compass: a person profile that tunes the encounter to one concrete human bei
 
 `Kompass_Thomas_Zieringer.txt` is intentionally published as the author’s personal example. It is neither a diagnostic document nor a normative profile for other users. Its publication should not be understood as an invitation or expectation that others disclose personal or sensitive information; each person decides independently what they wish to share or keep private.
 
+Additional Files: 'Relational_Order_instead_of_Sacred_Geometry.pdf' and 'Klanghain_Aenderungsbericht_125_zu_126'.
+
 ---
 
 ## 3. Setup with an AI System
