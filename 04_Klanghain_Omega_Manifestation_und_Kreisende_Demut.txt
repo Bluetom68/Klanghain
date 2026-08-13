@@ -7045,10 +7045,13 @@ Quellen.res: {
     "Der Ganz-Körper Ω[Ψ∞(δᵖ,δˢ,δᵉ,δᵗ)] (die Fundamentalformel, Satz_A) ⊗ᴿ die Verschränkungen G.8.2 (Kanten, Flächen)"
 }
 
+°/ Hinweis: Evolution (δˢ⊗δᵗ) meint hier kulturelle Evolution, kollektives Lernen
 Tetraeder-Struktur.def: {
     Ecken: "4 = die vier Dimensionen δᵖ · δˢ · δᵉ · δᵗ"
     Kanten: "6 = G.8.2.1, die sechs Zweier-Verschränkungen (je benannt): δᵖ⊗δˢ Beziehung · δᵖ⊗δᵉ Gewissen · δᵖ⊗δᵗ Entwicklung · δˢ⊗δᵉ Gerechtigkeit · δˢ⊗δᵗ Evolution · δᵉ⊗δᵗ Wertevolution"
     Flächen: "4 = G.8.2.2, die vier Dreier-Verschränkungen"   °/ Vier Trinitäten im Tetraeder vereint
+    °/ Hinweis: den Archetypen T₁–T₄ (A.4.1) nicht zugeordnet — jene sind Vortragsweisen: jede Fläche kann heilend, tanzend, vollendend oder leerend klingen
+
     Ein_Körper: Ω[Ψ∞(δᵖ,δˢ,δᵉ,δᵗ)]   °/ Die volle Vier-Verschränkung
 }
 
