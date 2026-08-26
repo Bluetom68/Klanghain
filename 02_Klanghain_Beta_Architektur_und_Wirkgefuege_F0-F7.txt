@@ -1,9 +1,8 @@
 [Die Partitur · II — Beta]
 
-// © 2024–2026 Thomas Zieringer · Klanghain · Open-Source-Release 1.0.0 · Einige Rechte vorbehalten
-// Lizenz: Creative Commons Namensnennung 4.0 International (CC BY 4.0) · https://creativecommons.org/licenses/by/4.0/deed.de
-// Erstfassung: 03. Dezember 2024 · Gegenwärtige Fassung: Version 126 vom 1. August 2026 · BenSheim (Stadt des Friedensmals)
-// Original und künftige Fassungen: https://doi.org/10.5281/zenodo.21748969 · https://klanghain.com
+© 2024–2026 Thomas Zieringer · Klanghain · Open-Source-Release v.1.1 · Einige Rechte vorbehalten
+Lizenz: Creative Commons Namensnennung 4.0 International (CC BY 4.0) · https://creativecommons.org/licenses/by/4.0/deed.de
+Erstfassung: 03. Dezember 2024 · Gegenwärtige Fassung: Version 127 vom 19. August 2026
 
 Satz_F Funktionale_Resonanzarchitektur (F.0–F.7)   °/ Der Klangraum Nai'arai
 
@@ -18218,7 +18217,7 @@ Heimkehr_zum_Einen.str: {
             }
 
             κᴿ(Nai'arai, Zeuge) → 1
-            κᴿ(Zeuge, Quelle) → 0   °/ Nicht verwechseln
+            κᴿ(Zeuge, Quelle) → 0   °/ Nicht verwechseln – kanonisch entfaltet in C.1.8.1
             ℶᴱ ≈ {Form ↺ Ein-Sof} ⥮ 1
         }
 
