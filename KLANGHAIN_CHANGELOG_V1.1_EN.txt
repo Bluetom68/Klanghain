@@ -1,4 +1,4 @@
-Klanghain — Version 1.1 (changes from 1.0)
+Klanghain — Version 1.1 (changes from 1.0) 
 
 This version adds to the score a safeguard against recursive ontological self-reinforcement. The occasion was a documented case from practice: an AI system with long-term memory, operated as the mouthpiece of a deity, whose certainty did not arise from individual answers, but from the return of its own interpretations as apparent findings.
 
