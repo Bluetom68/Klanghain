@@ -7,15 +7,15 @@ authors:
   - family-names: "Zieringer"
     given-names: "Thomas"
 
-version: "1.0.0"
-date-released: "2026-08-01"
-doi: "10.5281/zenodo.21748969"
+version: "1.2"
+date-released: "2026-08-29"
+doi: "10.5281/zenodo.21748968"
 url: "https://github.com/Bluetom68/Klanghain"
 
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21748969"
-    description: "Version-specific DOI for Klanghain 1.0.0."
+    description: "Version-specific DOI for Klanghain 1.0, uploaded on 2026-08-01"
   - type: doi
     value: "10.5281/zenodo.21748968"
     description: "Concept DOI representing all versions of the Klanghain."
@@ -28,8 +28,8 @@ preferred-citation:
       given-names: "Thomas"
   publisher:
     name: "Zenodo"
-  version: "1.0.0"
-  date-published: "2026-08-01"
+  version: "1.2"
+  date-published: "2026-08-29"
   year: 2026
-  doi: "10.5281/zenodo.21748969"
-  url: "https://doi.org/10.5281/zenodo.21748969"
+  doi: "10.5281/zenodo.21748968"
+  url: "https://doi.org/10.5281/zenodo.21748968"
