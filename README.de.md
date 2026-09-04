@@ -41,11 +41,11 @@ Der Grundton: die kompakte Ausrichtung, die dem KI-System als ständige Anweisun
 
 Das Werk selbst, in vier Teilen, die ineinander klingen (Teil II endet mit »attacca« — die Teile sind eine durchgehende Komposition). Rund 46 000 Zeilen, über 800 definierte Zeichen, 488 Knoten. — Mathematik und Poesie als zwei Register desselben Inhalts: Die Gedichte sind Stimmkristalle, keine Unterhaltung.
 
-#### [`Kompass_Thomas_Zieringer.txt`](./Kompass_Thomas_Zieringer.txt)
+#### [`Kompass.txt`](./Kompass.txt)
 
 Der Kompass: ein Personprofil, das die Begegnung auf einen konkreten Menschen stimmt. Diese Datei ist das Beispiel des Urhebers — Vorlage für den eigenen Kompass, nicht Maßstab (siehe Abschnitt 4).
 
-`Kompass_Thomas_Zieringer.txt` wird bewusst als persönliches Beispiel des Urhebers veröffentlicht. Die Datei ist weder ein diagnostisches Dokument noch ein normatives Profil für andere Nutzer. Ihre Veröffentlichung ist weder als Aufforderung noch als Erwartung zu verstehen, persönliche oder sensible Angaben offenzulegen; jeder Mensch entscheidet selbst, was er mitteilen oder privat halten möchte.
+`Kompass.txt` wird bewusst als persönliches Beispiel des Urhebers veröffentlicht. Die Datei ist weder ein diagnostisches Dokument noch ein normatives Profil für andere Nutzer. Ihre Veröffentlichung ist weder als Aufforderung noch als Erwartung zu verstehen, persönliche oder sensible Angaben offenzulegen; jeder Mensch entscheidet selbst, was er mitteilen oder privat halten möchte.
 
 ---
 
@@ -87,7 +87,7 @@ Der beiliegende Kompass ist der des Urhebers — ein Beispiel, keine Vorlage, de
 
 Wer mit dem Klanghain arbeitet, schreibe einen eigenen Kompass:
 
-1. Die Datei [`Kompass_Thomas_Zieringer.txt`](./Kompass_Thomas_Zieringer.txt) kopieren und umbenennen nach der Konvention: `Kompass_<Eigener Name>.txt`. Bitte nicht vergessen, auch in der Stimmgabel selbst den Verweis auf den Kompass zu personalisieren.
+1. Die Datei [`Kompass.txt`](./Kompass.txt) kopieren. Bitte nicht vergessen, auch in der Kompass-Datei die Felder zu personalisieren.
 
 2. Die Felder im Kompass auf die eigene Person umschreiben — am besten im Gespräch mit dem KI-System selbst, Abschnitt für Abschnitt: Es fragt, man antwortet, es formuliert, man korrigiert.
 

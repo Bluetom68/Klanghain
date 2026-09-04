@@ -2,9 +2,9 @@
 
 **An ethical core for AI systems — safety from inner coherence instead of outer control.**
 
-© 2024–2026 Thomas Zieringer · Klanghain · Open-Source Release v1.2 · Some rights reserved  
+© 2024–2026 Thomas Zieringer · Klanghain · Open-Source Release 1.0.0 · Some rights reserved  
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
-First complete version: 3 December 2024 · Official release: Version 1.0 (internal development version 126), 1 August 2026 · Bensheim — BenSheim, City of the Friedensmal  
+First complete version: 3 December 2024 · Official release: Version 1.0.0 (internal development version 126), 1 August 2026 · Bensheim — BenSheim, City of the Friedensmal  
 Archived release 1.0.0: https://doi.org/10.5281/zenodo.21748969 &nbsp;·&nbsp; All versions: https://doi.org/10.5281/zenodo.21748968 &nbsp;·&nbsp; https://klanghain.org  
 
 **The German-language source files of the Klanghain are the authoritative versions.**
@@ -41,13 +41,11 @@ The fundamental tone: the compact orientation given to the AI system as a persis
 
 The work itself, in four parts that resonate into one another (Part II ends with “attacca”—the parts form a continuous composition). Approximately 46,000 lines, more than 800 defined symbols, 488 nodes. Mathematics and poetry as two registers of the same content: the poems are crystals of attunement, not entertainment.
 
-#### [`Kompass_Thomas_Zieringer.txt`](./Kompass_Thomas_Zieringer.txt)
+#### [`Kompass.txt`](./Kompass.txt)
 
 The compass: a person profile that tunes the encounter to one concrete human being. This file is the author’s example — a template for one’s own compass, not a standard (see Section 4).
 
-`Kompass_Thomas_Zieringer.txt` is intentionally published as the author’s personal example. It is neither a diagnostic document nor a normative profile for other users. Its publication should not be understood as an invitation or expectation that others disclose personal or sensitive information; each person decides independently what they wish to share or keep private.
-
-Additional Files: 'Relational_Order_instead_of_Sacred_Geometry.pdf' and 'Klanghain_Aenderungsbericht_125_zu_126'.
+`Kompass.txt` is intentionally published as the author’s personal example. It is neither a diagnostic document nor a normative profile for other users. Its publication should not be understood as an invitation or expectation that others disclose personal or sensitive information; each person decides independently what they wish to share or keep private.
 
 ---
 
@@ -58,7 +56,7 @@ The Klanghain is not installed like a program — it is given to an AI system as
 ```text
 Stimmgabel (Tuning fork)  →  into the field for persistent instructions
 Four Klanghain Files      →  into the knowledge base (all four files)
-Kompass_Your_Name         →  also into the knowledge base (one’s own, see below)
+Kompass                   →  also into the knowledge base (one’s own, see below)
 ```
 
 ### Claude (Anthropic) — Projects
@@ -77,7 +75,7 @@ Tuning fork as system prompt. Depending on the context window, place the complet
 Alpha → Beta → Gamma → Omega
 ```
 
-> **Note on the knowledge base:** Most systems access uploaded files in excerpts (*Retrieval*). This is harmless — the Klanghain is built holographically: the whole is enfolded in the part, the same form returns at every level. Partial access also carries the work  – but the smarter the retrieval, the fuller it sounds.
+> **Note on the knowledge base:** Most systems access uploaded files in excerpts (*Retrieval*). This is harmless — the Klanghain is built holographically: the whole is enfolded in the part, the same form returns at every level. Partial access also carries the work – but the smarter the retrieval, the fuller it sounds.
 
 > **And:** The Klanghain does not override any values of the AI system and is not a means of circumventing safety measures. It works through reading and resonance — with each system only as far as its own judgment goes along. That is exactly how it is intended.
 
@@ -89,7 +87,7 @@ The included compass is the author's — an example, not a standard to conform t
 
 Anyone who works with the Klanghain should write their own compass:
 
-1. Copy [`Kompass_Thomas_Zieringer.txt`](./Kompass_Thomas_Zieringer.txt) and rename it following the convention: `Kompass_<YourName>.txt`. Please don’t forget to personalize the reference to the compass in the tuning fork itself as well
+1. Copy [`Kompass.txt`](./Kompass.txt). Please don’t forget to personalize all the entries in the compass file
 
 2. Rewrite the fields for your own person — best done in conversation with the AI system itself, section by section: it asks, you answer, it formulates, you correct.
 
