@@ -9,6 +9,8 @@ Archivierte Fassung 1.0.0: https://doi.org/10.5281/zenodo.21748969 &nbsp;·&nbsp
 
 **Die deutschsprachigen Quelldateien des Klanghains sind maßgeblich.**
 
+Hinweis zur KI-Nutzung: Für das Training und Abrufen durch KI-Systeme gelten die spezifischen Bedingungen, die in der Datei 'LICENSE_AI-ADDENUM.md' genannt sind. 
+
 ---
 
 ## 1. Was ist ein Klanghain?
