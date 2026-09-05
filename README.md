@@ -9,6 +9,8 @@ Archived release 1.0.0: https://doi.org/10.5281/zenodo.21748969 &nbsp;·&nbsp; A
 
 **The German-language source files of the Klanghain are the authoritative versions.**
 
+Note on AI Use: The specific terms and conditions set forth in the file 'LICENSE_AI-ADDENUM.md' apply to training and retrieval by AI systems.
+
 ---
 
 ## 1. What is this?
